@@ -1,8 +1,9 @@
 Rencana Hasil Tabungan/Investasi
 - Beli Motor
+  * Modifikasi japstyle
 - Beli Laptop
+  * Lenovo Ideapad 3 Ryzen 3 4300U
 - Upgrade PC
   * HDD 1TB
   * PSU
-  * Casing PC
   
