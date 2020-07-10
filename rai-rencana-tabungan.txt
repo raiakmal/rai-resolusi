@@ -4,4 +4,5 @@ Rencana Hasil Tabungan/Investasi
 - Upgrade PC
   * HDD 1TB
   * PSU
+  * Casing PC
   
